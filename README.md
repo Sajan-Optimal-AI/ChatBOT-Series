@@ -9,9 +9,12 @@ From low Complexity to High Complexity
     
     Structure of the data :
     
-        ![image](https://user-images.githubusercontent.com/82649993/160281531-3f523ffa-1601-40b9-9e51-eecb1df30093.png)
-   
+      ![image](https://user-images.githubusercontent.com/82649993/160281764-1d9626f9-1080-496c-8df8-81af9c0037d3.png)
+
+      
+        
     chat outs  :
     
-    ![image](https://user-images.githubusercontent.com/82649993/160281655-b4377533-b20a-40ad-af55-6a604d1b6014.png) 
+      ![image](https://user-images.githubusercontent.com/82649993/160281738-e35ce48a-814b-49fe-96ac-020182d7f410.png)
+
         
