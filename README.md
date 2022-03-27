@@ -6,15 +6,14 @@ From low Complexity to High Complexity
 # 2.ChaTBOT using Chatterbot PyPI and CorupusTrainer............
 
 # 3.Chatbot using NLTK(Tfidf) 
-    
-    Structure of the data :
-    
-      ![image](https://user-images.githubusercontent.com/82649993/160281764-1d9626f9-1080-496c-8df8-81af9c0037d3.png)
 
-      
-        
-    chat outs  :
+Structure of the data :
+
+   ![Capture1](https://user-images.githubusercontent.com/82649993/160281855-90c44b4c-94cc-48a4-b6be-962c4ea5c4d6.JPG)
+          
+ chat outs  :
     
-      ![image](https://user-images.githubusercontent.com/82649993/160281738-e35ce48a-814b-49fe-96ac-020182d7f410.png)
+   ![Capture](https://user-images.githubusercontent.com/82649993/160281862-67c0120a-a262-4cd5-9194-096dcab7fb5f.JPG)
+
 
         
