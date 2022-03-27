@@ -13,5 +13,5 @@ From low Complexity to High Complexity
    
     chat outs  :
     
-    ![image](https://user-images.githubusercontent.com/82649993/160281655-b4377533-b20a-40ad-af55-6a604d1b6014.png
+    ![image](https://user-images.githubusercontent.com/82649993/160281655-b4377533-b20a-40ad-af55-6a604d1b6014.png) 
         
