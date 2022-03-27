@@ -14,7 +14,7 @@ Structure of the data :
           
  chat outs  :
  
-    ![Capture](https://user-images.githubusercontent.com/82649993/160281978-3c39ef86-6997-4ab8-8f3a-504113298cb3.PNG)
+ ![Capture](https://user-images.githubusercontent.com/82649993/160281978-3c39ef86-6997-4ab8-8f3a-504113298cb3.PNG)
 
 
 
